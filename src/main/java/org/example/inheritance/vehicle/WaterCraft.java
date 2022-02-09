@@ -1,4 +1,4 @@
 package org.example.inheritance.vehicle;
 
-public class WaterCraft extends Vehicle {
+public abstract class WaterCraft extends Vehicle  implements Floatable{
 }

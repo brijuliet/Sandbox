@@ -1,4 +1,4 @@
 package org.example.inheritance.vehicle;
 
-public class Vehicle {
+public abstract class Vehicle implements Conveyance {
 }
