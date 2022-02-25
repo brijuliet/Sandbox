@@ -5,6 +5,7 @@ import java.util.*;
 public class Demo {
 
     public static void main(String[] args) {
+
         // List
         List<String> list = new ArrayList<>();
         List<String> list2 = new LinkedList<>();
@@ -21,6 +22,26 @@ public class Demo {
 
         // Map
         Map<String, String> map = new HashMap<>();
+        Map<Integer, String> map2 = new HashMap<>();
+        Map<Integer, Integer> map3 = new HashMap<>();
+
+        list.add("Hi");
+        list.add("Hi");
+        list.add("Hi");
+        list.add("There");
+
+        list.forEach(System.out::println);
+
+        set1.clear();   // ensures list is empty
+        set1.addAll(list);
+
+        set1.forEach(System.out::println);
+
+        queue3.add("What?");
+        queue3.clear();
+        queue3.addAll(set1);
+
+        queue3.forEach(System.out::println);
 
     }
 }
