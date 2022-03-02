@@ -1,4 +1,4 @@
-package org.example;
+package org.example.solid;
 
 import java.sql.Array;
 import java.util.ArrayList;
