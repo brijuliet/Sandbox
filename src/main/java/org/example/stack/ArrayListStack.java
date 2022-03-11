@@ -6,6 +6,8 @@ import java.util.Objects;
 
 public class ArrayListStack<E extends Comparable> implements Stack<E> {
 
+    // FIXME finish class
+
     private List<E> stack;
 
     public ArrayListStack() {

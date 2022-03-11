@@ -4,6 +4,8 @@ public class LabelDemo {
 
     public static void main(String[] args) {
 
+        // FIXME finish class
+
         Outer:
         for(int x = 0; x <= 9; x++) {
             for(int y = 0; y <= 9; y++) {
