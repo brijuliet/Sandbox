@@ -33,3 +33,7 @@ a
 -src/main/java/org/example/generics/Crate.java,0\2\02bc35ae74d493da5aa31c61ac93956df3d507e6
 ^
 .src/main/java/org/example/generics/Driver.java,4\c\4cc1312a067c68c0861c54a45b62848b483f37a7
+a
+1src/main/java/org/example/algorithm/Analysis.java,a\6\a6fbd522c876636fcb5881fd0cabea1eb76e3a65
+b
+2src/main/java/org/example/algorithm/Algorithm.java,e\c\ec4e8715ae69a8ecb6ad6173aef681b3215d4410
