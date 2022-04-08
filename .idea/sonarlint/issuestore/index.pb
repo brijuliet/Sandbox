@@ -37,3 +37,5 @@ a
 1src/main/java/org/example/algorithm/Analysis.java,a\6\a6fbd522c876636fcb5881fd0cabea1eb76e3a65
 b
 2src/main/java/org/example/algorithm/Algorithm.java,e\c\ec4e8715ae69a8ecb6ad6173aef681b3215d4410
+b
+2src/main/java/org/example/recursion/Factorial.java,7\4\74702d3ca6d89bd8e006aed3b769d9a73c798d33
