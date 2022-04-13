@@ -39,3 +39,15 @@ b
 2src/main/java/org/example/algorithm/Algorithm.java,e\c\ec4e8715ae69a8ecb6ad6173aef681b3215d4410
 b
 2src/main/java/org/example/recursion/Factorial.java,7\4\74702d3ca6d89bd8e006aed3b769d9a73c798d33
+d
+4src/main/java/org/example/tree/BinaryTreeDriver.java,9\a\9a68eacd642c7ab88f5b805852e7f20ee92c63af
+^
+.src/main/java/org/example/tree/BinaryTree.java,b\7\b7e1548a26b15b3e72b40d0246828ba61d5da0d7
+l
+<src/main/java/org/example/tree/ElementNotFoundException.java,c\d\cdf34e0907b2cc074ffe76834b40b98bf7cffc9d
+X
+(src/main/java/org/example/tree/Tree.java,a\0\a0d6cbaccda2be0a2f3b81e0c39efad06b61d126
+]
+-src/main/java/org/example/records/Driver.java,8\9\893d2c5f3d4adfecec4b8190c97b85a1b6067216
+`
+0src/main/java/org/example/records/Rectangle.java,3\5\3566ad420973e9823982aa5df480108c22cbb79e
